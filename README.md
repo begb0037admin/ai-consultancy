@@ -32,6 +32,17 @@ The project is at the planning and validation stage. Work is organised in [PLAN.
 
 Proof-building and early outreach are intentionally parallel tracks. A polished site is not a prerequisite for speaking to prospective customers.
 
+## Repository map
+
+- [`demos/`](demos/) — synthetic-data proof projects
+  - [`knowledge-base/`](demos/knowledge-base/) — searchable support knowledge-base demo
+  - [`support-dashboard/`](demos/support-dashboard/) — support-triage and service-health dashboard
+- [`site/`](site/) — the minimal public website
+- [`docs/`](docs/) — supporting research and implementation documentation
+- [`.github/ISSUE_TEMPLATE/`](.github/ISSUE_TEMPLATE/) — templates for structured project ideas
+
+These directories currently contain scoped placeholders. Replace each placeholder with build and operating instructions as implementation begins.
+
 ## Working in this repository
 
 - Tick completed work in `PLAN.md`.
